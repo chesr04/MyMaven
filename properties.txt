@@ -1,0 +1,5 @@
+URL= http://wpdvcus06.broadcom.com:8080/CUS/
+#TITLE= CA Technologies - Content Update Service - Sandbox 
+#SUB_TITLE=Content Update Service - Sandbox 
+TITLE=Computer Associates - Content Update Service
+SUB_TITLE=Content Update Service by Computer Associates
